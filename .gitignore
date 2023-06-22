@@ -1,3 +1,6 @@
 *./metadata
 *.lmd_full.tar.gz
 *.lmd_matched.tar.gz
+*.metadata/features_3_sec.csv
+*.metadata/genres_original/
+*.metadata/images_original/
