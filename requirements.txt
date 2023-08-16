@@ -1,0 +1,12 @@
+# !apt-get update -qq && apt-get install -qq libfluidsynth1 fluid-soundfont-gm build-essential libasound2-dev libjack-dev
+ -qU pyfluidsynth pretty_midi
+music21
+pypianoroll
+-q git+https://github.com/tensorflow/docs
+llvmlite --ignore installed 
+tensorflow-addons
+--upgrade --ignore-installed tensorflow
+-q imageio
+librosa 
+tensorflow
+numba==0.53 --user
