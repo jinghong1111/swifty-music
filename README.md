@@ -41,4 +41,6 @@ To use the Music VAE model, follow these steps:
 
 Through using WAV files from selected parts of Taylor Swift's music, the model can compose original sound tracks mimicking Taylor Swift's music style.
 
-## To copy and recreate this project, please use the command: pip3 install requirements.txt OR run the installation commands in the first cell of ts_wav.ipynb ##
+## To copy and recreate this project, please use the command: pip3 install requirements.txt OR run the installation commands in the first cell of ts_wav.ipynb 
+
+Be sure to use the link: https://drive.google.com/file/d/1_v2jAXE2DnMXvDIZWFCLq8jvZLdJoZ2M/view?usp=drive_link to download the data and make sure to replace the files in metadata folder with them. 
